@@ -1,4 +1,4 @@
-# geomagic-igs解析
+# geomagic igs解析
 用于geomagic导出特征的igs\iges解析.
 做种植体测量的时候想导出特征数据,但没有能直接读的格式.
 网上搜了一圈也没找到现成的轮子,于是自己整了一个.
